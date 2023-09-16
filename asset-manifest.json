@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/car_WebsiteForMobile/static/css/main.a21369a6.css",
+    "main.js": "/car_WebsiteForMobile/static/js/main.fd66f2a2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/car_WebsiteForMobile/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/car_WebsiteForMobile/index.html",
+    "main.a21369a6.css.map": "/car_WebsiteForMobile/static/css/main.a21369a6.css.map",
+    "main.fd66f2a2.js.map": "/car_WebsiteForMobile/static/js/main.fd66f2a2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/car_WebsiteForMobile/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21369a6.css",
+    "static/js/main.fd66f2a2.js"
+  ]
+}
